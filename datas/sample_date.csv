@@ -1,0 +1,24 @@
+Code_pop;Population;Country;Date;Altitude;Artificial;Forest;Div_veg;Bare;Density;Environment_class
+QUI;Quito;Ecuador;2019-07-26;2850;High;Abs;Medium;Abs;High;C1
+AND;Teligote;Ecuador;2019-08-05;2880;Low;Medium;High;Abs;Low;C2
+COL;Canton de Colta;Ecuador;2019-08-13;3403;Low;Abs;High;Abs;Low;C2
+LEI;Leicester;United Kingdom;2018-11-08;58;High;Abs;Medium;Abs;High;C1
+DOU;Doumassi;Gabon;2019-10-08;580;Abs;High;Abs;Abs;Low;C3
+CHA;Chateauville;Gabon;2019-10-11;580;Medium;High;Low;Abs;Low;C3
+ESS;Essikok (Meubeum 1);Gabon;2019-10-12;580;Medium;High;Low;Abs;Low;C3
+MEB;Meubeum (Ngone);Gabon;2019-10-10;580;Medium;High;Low;Abs;Low;C3
+ESG;Essang;Gabon;2019-10-07;580;Abs;High;Abs;Abs;Low;C3
+BUK;Bukhara (Buxoro);Uzbekistan;2018-10-01;225;Medium;Abs;High;Low;High;C1
+NUK;Nukus;Uzbekistan;2018-10-01;77;High;Abs;Low;Medium;Medium;C1
+XHO;Xhosa Cape Town;South Africa;2018-07-20;80;High;Abs;Medium;Abs;High;C1
+CAP;Cap Town 2017;South Africa;2017-11-09;80;High;Abs;Medium;Abs;High;C1
+UWC;Cap Town 2015;South Africa;2015-10-01;80;High;Abs;Medium;Abs;High;C1
+NUV;Nueva vida;Ecuador;2023-04-07;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+BAN;Baños de Agua Santa;Ecuador;2023-04-18;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+HUG;Huagrayaku;Ecuador;2023-04-17;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+TOU;Toulouse;France;2023-06-22;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+ARG;Ariège;France;2024-02-26;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+HTG;Haute-Garonne;France;2024-03-01;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+HTP;Hautes-Pyrénées;France;2024-02-29;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+HOT;Hotel-Puyo;Ecuador;2023-01-01;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+PUT;Putuimi;Ecuador;2023-04-12;NaN;NaN;NaN;NaN;NaN;NaN;NaN
